@@ -1,1 +1,1 @@
-[GitHub Docs] (https://github.com/stepin104276)
+[GitHub] (https://github.com)
